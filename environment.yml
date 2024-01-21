@@ -1,0 +1,12 @@
+name: meme-recommender
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - tensorflow[and-cuda]
+  - pandas
+  - scikit-learn
+  - opencv
+  - pip
+  - pip:
+    - keras # to override tensorflow version with Keras 3
