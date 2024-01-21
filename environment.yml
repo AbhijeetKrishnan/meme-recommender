@@ -4,7 +4,6 @@ channels:
 dependencies:
   - python
   - tensorflow[and-cuda]
-  - pandas
   - scikit-learn
   - scikit-image
   - opencv
