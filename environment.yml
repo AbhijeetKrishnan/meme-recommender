@@ -6,7 +6,9 @@ dependencies:
   - tensorflow[and-cuda]
   - pandas
   - scikit-learn
+  - scikit-image
   - opencv
+  - ipykernel
   - pip
   - pip:
     - keras # to override tensorflow version with Keras 3
