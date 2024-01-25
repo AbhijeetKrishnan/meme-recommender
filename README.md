@@ -6,7 +6,7 @@
 
 A meme recommendation system that uses item-to-item similarity to recommend memes to users. It clusters memes via K-means using features from 
 [Inception v3](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.html), 
-[HOG](https://ieeexplore.ieee.org/abstract/document/1467360/),[KAZE](https://link.springer.com/chapter/10.1007/978-3-642-33783-3_16) and
+[HOG](https://ieeexplore.ieee.org/abstract/document/1467360/), [KAZE](https://link.springer.com/chapter/10.1007/978-3-642-33783-3_16) and
 PCA.
 
 The dataset used is the [Reddit Memes Dataset](https://www.kaggle.com/sayangoswami/reddit-memes-dataset) by [Sayan Goswami](https://www.kaggle.com/sayangoswami) from Kaggle.
