@@ -35,4 +35,4 @@ rm data/archive.zip
 
 ## Usage
 
-TODO: Add usage instructions
+Run the cells in the [notebook](/model.ipynb).
